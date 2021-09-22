@@ -1,0 +1,41 @@
+img{
+    width: 100%;
+    height:fit-content;
+    margin-top: 20px;
+}
+
+.benifits-head{
+    position:relative;
+    left: 0;  
+}
+.benifit-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    font-size: 4rem;
+}
+.card{
+    border-color:purple;
+    color: black;
+    background: transparent;
+}
+.card:hover{
+    box-shadow: 8px 12px 31px 5px #ab98ab;
+    color: black;
+     
+}
+.cards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-color: purple;
+    padding: 10px;
+}
+.card-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.card-text{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}

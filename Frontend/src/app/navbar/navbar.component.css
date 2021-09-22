@@ -1,0 +1,23 @@
+
+
+a{
+    color: white;
+    
+    font-size: medium;
+    /* padding: 2px; */
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+a:hover{
+    color:rgb(105, 12, 74);
+    background-color:black;
+}
+
+.nav-wrapper{
+    background-color:black;
+}
